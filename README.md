@@ -1,4 +1,4 @@
-# email
+# Email
 
 Make sure python is installed with smtplib & pymysql
 
