@@ -19,3 +19,9 @@ If you have a list of names wich you want te convert to emailadresses you can us
 Please make sure that the input file has the following structure: Firstname;Lastname;Infix
 Example: Ko;Kraker;de 
 will be converted into: ko.de.kraker@example.com
+
+## count.php
+Used for the Joomla installation the count the amount of clicks. It checks the URL for 'index.php?count=1'.
+If the count has a other value then 1 it wil not work. Make sure the content_id had the value of a article.
+
+Download the mod_phishing as a zip file to display the amount of clicks on the administrator page.
